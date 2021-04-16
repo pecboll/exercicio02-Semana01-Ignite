@@ -29,6 +29,11 @@
       "id": 6,
       "name": "family",
       "title": "Família"
+    },
+    {
+      "id": 7,
+      "name": "pornografic",
+      "title": "pornografia"
     }
   ],
   "movies": [
